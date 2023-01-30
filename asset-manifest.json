@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IFC-HomePage/static/css/main.f48e3958.css",
+    "main.js": "/IFC-HomePage/static/js/main.f8b83f31.js",
+    "index.html": "/IFC-HomePage/index.html",
+    "main.f48e3958.css.map": "/IFC-HomePage/static/css/main.f48e3958.css.map",
+    "main.f8b83f31.js.map": "/IFC-HomePage/static/js/main.f8b83f31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f48e3958.css",
+    "static/js/main.f8b83f31.js"
+  ]
+}
