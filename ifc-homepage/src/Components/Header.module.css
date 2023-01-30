@@ -17,10 +17,17 @@ a {
 .ifc_logo {
     color: black;
     height: 100%;
-    font-size: 35px;
     font-weight: 900;
-    display : flex;
-    align-items: center;
+}
+
+.ifc_logo p:nth-child(1) {
+    font-size: 13px;
+    margin-bottom: 8px;
+}
+
+.ifc_logo p:nth-child(2) {
+    font-size: 27px;
+    margin-top: 0;
 }
 
 .ifc_logo:hover {
