@@ -10,8 +10,8 @@ function Header() {
                 </a>
                 <div className={styles.menu_btn}>
                     <a href="/introduce">교회 소개</a>
+                    <a href="/calendars">교회 일정</a>
                     <a href="/sketchMap">오시는 길</a>
-                    <a href="/calendar">교회 일정</a>
                 </div>
             </div>
         </div>

@@ -2,14 +2,14 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Pages/Home';
 import './App.css';
 import Introduce from './Pages/Introduce';
+import Calendars from './Pages/Calendars';
 import SketchMap from './Pages/SketchMap';
-import Calendar from './Pages/Calendar';
 
 function App() {
   return <Router>
     <Switch>
-      <Route path="/calendar">
-        <Calendar />
+      <Route path="/calendars">
+        <Calendars />
       </Route>
       <Route path="/sketchMap">
         <SketchMap />
